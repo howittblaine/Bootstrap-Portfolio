@@ -11,6 +11,11 @@ body{
     padding: 2px;
     text-align: center;
   }
+  .subheader{
+      font-family: Georgia, Times, Times New Roman, serif;
+      color: #4aaaa5;
+      margin-left: 10px;   
+  }
   
   .section{
       width:960px;
